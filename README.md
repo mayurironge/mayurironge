@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mayurironge
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning javaScript
-- 💞️ I’m looking to collaborate on web development
+-  Hi, I’m @mayurironge
+-  I’m interested in software development/web development. 
+-  HTML, CSS, JavaScript, PHP, JSP, MYSQL.
+  
 
 
 <!---
