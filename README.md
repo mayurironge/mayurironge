@@ -1,6 +1,6 @@
--  Hi, I’m @mayurironge
--  I’m interested in software development/web development. 
--  HTML, CSS, JavaScript, PHP, JSP, MYSQL.
+Hi there, I'm Mayuri Ronge 👋
+Welcome to my GitHub profile! I'm a passionate software developer with a knack for turning innovative ideas into reality through code. With a solid background in Python, JavaScript,JS, C++. I also bring a strong foundation in frontend languages such as HTML, CSS, Bootstrap, Jquery etc.
+I thrive on tackling challenging problems and creating efficient, scalable solutions.
   
 
 
